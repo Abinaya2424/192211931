@@ -7,4 +7,4 @@ int main()
     scanf ("%s", str);  
     printf (" \n After the reverse of a string: %s ", strrev(str));  
     return 0;  
-}  w
+}  
