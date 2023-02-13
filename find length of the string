@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main() {
-    char s[] = "abdus";
+int main() 
+{
+    char s[] = "abikandan";
     int i;
 
     for (i = 0; s[i] != '\0'; ++i);
